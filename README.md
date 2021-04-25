@@ -2,7 +2,7 @@
 <!--**woga1999/woga1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi, guys&fontSize=90" /></p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HI, guys👋&fontSize=90" /></p>
 
  <h1 align="center">🚩 Tech Stack </h1>
 <br>
@@ -15,7 +15,7 @@
 <br>
 <br>
 <h3 align="center">Tech Blog</h3>
-<p align="center"><a href="https://velog.io/@woga1999"> ☛ Click </a></p>
+<p align="center"><a href="https://velog.io/@woga1999"> ✅ Click </a></p>
 <br>
 <br>
 
