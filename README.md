@@ -15,7 +15,7 @@
 <br>
 <br>
 <h3 align="center">Tech Blog</h3>
-<a href="https://velog.io/@woga1999"> ☛ Click </a>
+<p align="center"><a href="https://velog.io/@woga1999"> ☛ Click </a></p>
 <br>
 <br>
 
